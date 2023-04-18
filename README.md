@@ -28,5 +28,7 @@ Ensure that the IAM user whose credentials are being used in this configuration 
 Review the code, especially the user_data.tpl file to understand what it is doing.
 
 Next, run terraform init
+
 Then run terraform plan
+
 And finally run terraform apply
